@@ -1,2 +1,2 @@
 # blog.fayaz.dev
-Unpolished! blog of @FayazDev
+Unpolished! blog of @Fayaz-Dev
