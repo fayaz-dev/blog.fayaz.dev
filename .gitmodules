@@ -1,0 +1,3 @@
+[submodule "www/themes/honey"]
+	path = www/themes/honey
+	url = git@github.com:fayaz-dev/honey.git
